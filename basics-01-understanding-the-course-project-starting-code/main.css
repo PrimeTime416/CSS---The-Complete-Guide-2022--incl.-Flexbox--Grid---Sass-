@@ -1,3 +1,14 @@
-section{
-    background: #ff1896;
+#product-overview{
+    background: #d669a5;
+}
+
+#plan{
+    color: white;
+    /* font-family: 'Roboto Mono', monospace; */
+    font-family: 'Anton', sans-serif;
+}
+
+.section-title{
+    color: #1b56d4;
+    font-family: 'Anton', sans-serif;
 }
