@@ -7,3 +7,4 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background#specifications
 
 Resources:
 https://fonts.google.com/
+moved to Linux mint.
