@@ -32,14 +32,23 @@ body {
     padding: 8px 16px;
 }
 
+.main-header__brand {
+    color: rgb(2, 30, 2);
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+}
+
 .main-header div {
     display: inline-block;
+    vertical-align: middle;
 }
 
 .main-nav {
     display: inline-block;
     text-align: right;
     width: calc(100% - 94px);
+    vertical-align: middle;
 }
 
 .main-nav__item{
