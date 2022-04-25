@@ -8,3 +8,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/background#specifications
 Resources:
 https://fonts.google.com/
 moved to Linux mint.
+
+Test:
+New install on basement computer for github.
